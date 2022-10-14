@@ -1,0 +1,10 @@
+Centro de pós-operatório do Hospital São Lucas
+
+################################################
+
+Data: 2022-09-22
+Relatamos que o paciente "Ana Laerte", identificado pelo CPF: 27293662025,
+foi atendido pelo médico "Carlos Lúcio", identificado pela credencial: CRM/RS 598721
+Saldo do Convenio: 0
+Diagnóstico Final: Reacao alergica
+

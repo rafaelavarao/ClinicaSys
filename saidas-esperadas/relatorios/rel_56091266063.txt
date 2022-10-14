@@ -1,0 +1,10 @@
+Centro de pós-operatório do Hospital São Lucas
+
+################################################
+
+Data: 2022-09-22
+Relatamos que o paciente "Daniel Matos", identificado pelo CPF: 56091266063,
+foi atendido pelo médico "Lauro Lira", identificado pela credencial: CRM/RS 618795
+Saldo do Convenio: 0
+Diagnóstico Final: Dor de cotovelo
+

@@ -1,0 +1,6 @@
+ERROR: O CPF possui 10 caracteres CPF precisa ter 11 digitos
+Não é possivel realizar a operação cadastrar do cargo Enfermeira com o argumento Paciente1 e descrição None 
+Não é possivel realizar a operação diagnosticar do cargo Medico com o argumento Paciente1 e descrição Asfixia Multipla 
+Não é possivel realizar a operação liberar do cargo Medico com o argumento Paciente1 e descrição None 
+Não é possivel realizar a operação relatorio do cargo Enfermeira com o argumento Paciente1 e descrição None 
+Não é possivel realizar a operação liberar do cargo Medico com o argumento Paciente2 e descrição None 

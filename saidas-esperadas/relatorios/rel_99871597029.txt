@@ -1,0 +1,10 @@
+Centro de pós-operatório do Hospital São Lucas
+
+################################################
+
+Data: 2022-09-22
+Relatamos que o paciente "Barbara Melo", identificado pelo CPF: 99871597029,
+foi atendido pelo médico "Isabella Cardoso", identificado pela credencial: CRM/RS 854721
+Saldo do Convenio: 1500
+Diagnóstico Final: Dor de Ouvido
+

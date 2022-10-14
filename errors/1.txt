@@ -1,0 +1,2 @@
+Não é possivel realizar a operação liberar do cargo Medico com o argumento Paciente1 e descrição None 
+Não é possivel realizar a operação liberar do cargo Medico com o argumento Paciente2 e descrição None 
